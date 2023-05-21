@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+h1 {
+    text-transform: capitalize;
+    font-size: 4rem;
+    color: darkorange;    
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10px;
+    color: aqua;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.p {
+
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+.Funny-Motivation {
+    border: 5px solid white;
+    width: 70%;
+}
